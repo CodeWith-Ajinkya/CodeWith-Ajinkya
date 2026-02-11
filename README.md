@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajinkya  
+### 🚀 Full-Stack Developer | JavaScript | Node.js | React | MongoDB
 
-<!--
-**CodeWith-Ajinkya/CodeWith-Ajinkya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build clean, efficient, and scalable applications.  
+Currently exploring advanced backend architecture and cloud deployments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, Postman, Render  
+- **Other:** REST APIs, Authentication, Email Services  
+
+---
+
+## 📌 Current Focus  
+- Building real-world full-stack projects  
+- Improving clean architecture  
+- Learning cloud deployment (Render, Vercel)
+
+---
+
+## 📂 Highlight Project  
+### **EasyShare – File Sharing App**  
+A fast and secure temporary file-sharing platform with email sharing.
+
+---
+
+## 🌱 What I'm Learning  
+- JWT Authentication  
+- Advanced Node.js Modules  
+- Production Deployment
+
+---
+
+Thanks for visiting!
