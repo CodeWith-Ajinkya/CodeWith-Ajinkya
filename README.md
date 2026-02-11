@@ -40,8 +40,6 @@ A fast & simple file-sharing platform built using:
 - SendGrid  
 - EJS frontend  
 
-🔗 *Project Link:* (Add later)  
-🔗 *Live Demo:* (Add when deployed)
 
 ---
 
@@ -59,16 +57,5 @@ I upload clean, scalable code and real-world apps.
 
 ---
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="mailto:your-email-here">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-</p>
-
----
 
 ⭐ **If you like my work, consider giving a star to my projects!**
